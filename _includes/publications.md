@@ -3,7 +3,8 @@
 <div class="publications">
 <ol class="bibliography">
 
-{% for link in site.data.publications.main %}
+{% assign sorted_publications = site.data.publications.main | sort: "date" | reverse %}
+{% for link in sorted_publications %}
 
 <li>
 <div class="pub-row">
