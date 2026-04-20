@@ -2,8 +2,8 @@ main:
 
   - title: "AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing"
     authors: <strong>Huawei Ji</strong>, Cheng Deng, Bo Xue, Zhouyang Jin, <strong>Jiaxin Ding*</strong>, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou (*Corresponding authors)
-    # conference_short: MICCAI
-    # conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2409.10016
     code: https://github.com/JHW5981/AceParse
     bibtex: https://github.com/JHW5981/AceParse/blob/master/aceparse.txt
