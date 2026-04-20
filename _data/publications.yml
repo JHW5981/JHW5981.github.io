@@ -8,7 +8,8 @@ main:
     code: https://github.com/JHW5981/AceParse
     bibtex: https://github.com/JHW5981/AceParse/blob/master/aceparse.txt
     image: ./assets/img/aceparse.png
-    notes: Under Review
+    rank: CCF-B
+    notes: Accepted (Mar. 2025)
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun

@@ -14,7 +14,7 @@ I am a direct-entry Ph.D. candidate at the Acemap, IIOT Lab, at Shanghai Jiao To
 
 ## News
 
-- **[Sep. 2024]** Completed my first paper and submitted it to ICASSP 2025！
+- **[Mar. 2025]** Our paper **AceParse** was accepted by ICASSP 2025!
 
 {% include_relative _includes/publications.md %}
 
