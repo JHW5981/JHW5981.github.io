@@ -6,7 +6,7 @@ main:
     conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2409.10016
     code: https://github.com/JHW5981/AceParse
-    bibtex: https://github.com/JHW5981/AceParse/blob/master/aceparse.txt
+    bibtex: https://github.com/JHW5981/AceParse/blob/mastr/aceparse.txt
     image: ./assets/img/aceparse.png
     rank: CCF-B
     notes: Accepted (Mar. 2025)
@@ -15,7 +15,7 @@ main:
     conference_short: ACL
     conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2604.15188
-    bibtex: ""
+    bibtex: "https://github.com/JHW5981/VisPCO/blob/main/vispco.txt"
     image: ./assets/img/vispco.png
     rank: CCF-A
     notes: Accepted (Apr. 2026)
