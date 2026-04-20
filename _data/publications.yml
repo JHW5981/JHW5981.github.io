@@ -1,16 +1,5 @@
 main:
 
-  - title: "AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing"
-    authors: <strong>Huawei Ji</strong>, Cheng Deng, Bo Xue, Zhouyang Jin, <strong>Jiaxin Ding*</strong>, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou (*Corresponding authors)
-    conference_short: ICASSP
-    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2409.10016
-    code: https://github.com/JHW5981/AceParse
-    bibtex: https://github.com/JHW5981/AceParse/blob/mastr/aceparse.txt
-    image: ./assets/img/aceparse.png
-    rank: CCF-B
-    notes: Accepted (Mar. 2025)
-
   - title: "VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models"
     authors: <strong>Huawei Ji</strong>, Yuanhao Sun, Yuan Jin, Cheng Deng, <strong>Jiaxin Ding*</strong>, Luoyi Fu, Xinbing Wang (*Corresponding authors)
     conference_short: ACL
@@ -21,6 +10,17 @@ main:
     image: ./assets/img/vispco.png
     rank: CCF-A
     notes: Accepted (Apr. 2026)
+
+  - title: "AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing"
+    authors: <strong>Huawei Ji</strong>, Cheng Deng, Bo Xue, Zhouyang Jin, <strong>Jiaxin Ding*</strong>, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou (*Corresponding authors)
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech and Signal Processing <strong>(ICASSP)</strong>, 2025.
+    pdf: https://arxiv.org/pdf/2409.10016
+    code: https://github.com/JHW5981/AceParse
+    bibtex: https://github.com/JHW5981/AceParse/blob/mastr/aceparse.txt
+    image: ./assets/img/aceparse.png
+    rank: CCF-B
+    notes: Accepted (Mar. 2025)
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
