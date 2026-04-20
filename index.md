@@ -14,6 +14,7 @@ I am a direct-entry Ph.D. candidate at the Acemap, IIOT Lab, at Shanghai Jiao To
 
 ## News
 
+- **[Apr. 2026]** Our paper **VisPCO** was accepted by ACL 2026!
 - **[Mar. 2025]** Our paper **AceParse** was accepted by ICASSP 2025!
 
 {% include_relative _includes/publications.md %}
