@@ -11,6 +11,15 @@ main:
     rank: CCF-B
     notes: Accepted (Mar. 2025)
 
+  - title: "VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models"
+    conference_short: ACL
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2604.15188
+    bibtex: ""
+    image: ./assets/img/vispco.png
+    rank: CCF-A
+    notes: Accepted (Apr. 2026)
+
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
   #   conference_short: CVPR
