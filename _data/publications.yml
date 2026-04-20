@@ -12,9 +12,11 @@ main:
     notes: Accepted (Mar. 2025)
 
   - title: "VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models"
+    authors: <strong>Huawei Ji</strong>, Yuanhao Sun, Yuan Jin, Cheng Deng, <strong>Jiaxin Ding*</strong>, Luoyi Fu, Xinbing Wang (*Corresponding authors)
     conference_short: ACL
     conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
     pdf: https://arxiv.org/pdf/2604.15188
+    code: https://github.com/JHW5981/VisPCO
     bibtex: "https://github.com/JHW5981/VisPCO/blob/main/vispco.txt"
     image: ./assets/img/vispco.png
     rank: CCF-A
