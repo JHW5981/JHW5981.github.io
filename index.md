@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a direct-entry Ph.D. candidate at the Acemap, IIOT Lab, at Shanghai Jiao Tong University, where I began my studies in 2023. I have the honor of being supervised by [Prof. Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/).
+I am a direct-entry Ph.D. candidate at DIRC (Data Intelligence Research Center), Shanghai Jiao Tong University, where I began my studies in 2023. I have the honor of being supervised by [Prof. Xinbing Wang](http://www.cs.sjtu.edu.cn/~wang-xb/).
 
 ## Research Interests
 
 - **Computer Vision:** Object Detection, Foundational Vision Models
 - **Natural Language Processing:** Retrieval Augmented Generation, Large Language Model
-- **Large Visual Language Models:** Document Understanding, Document Parsing
+- **Multimodal Learning:** Vision-Language Models, Visual Token Pruning, Vision-Language-Action Models
 
 ## News
 
