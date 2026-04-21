@@ -1,0 +1,141 @@
+.theme-toggle-button {
+  margin-top: 0.8rem;
+  padding: 0.28rem 0.65rem;
+  border-radius: 999px;
+  border: 1px solid #043361;
+  background: #ffffff;
+  color: #043361;
+  font: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.theme-toggle-button:hover {
+  transform: translateY(-1px);
+}
+
+:root[data-theme="light"] {
+  --global-theme-color: #002d72;
+}
+
+:root[data-theme="dark"] {
+  --global-theme-color: rgb(36, 150, 203);
+}
+
+:root[data-theme="light"] body {
+  background-color: #ffffff !important;
+  color: #595959 !important;
+}
+
+:root[data-theme="light"] autocolor {
+  color: #595959 !important;
+}
+
+:root[data-theme="light"] lightonly {
+  visibility: visible !important;
+}
+
+:root[data-theme="light"] darkonly {
+  visibility: hidden !important;
+}
+
+:root[data-theme="light"] h1,
+:root[data-theme="light"] h2,
+:root[data-theme="light"] h3,
+:root[data-theme="light"] h4,
+:root[data-theme="light"] h5,
+:root[data-theme="light"] h6 {
+  color: #043361 !important;
+}
+
+:root[data-theme="light"] a {
+  color: #39c !important;
+}
+
+:root[data-theme="light"] .social-icons a {
+  color: #043361 !important;
+}
+
+:root[data-theme="light"] .social-icons a:hover {
+  background-color: #ffffff !important;
+}
+
+:root[data-theme="light"] strong {
+  color: #222 !important;
+}
+
+:root[data-theme="light"] th,
+:root[data-theme="light"] dt {
+  color: #444 !important;
+}
+
+:root[data-theme="light"] .publications ol.bibliography li .links a.btn {
+  color: #000000 !important;
+  border-color: #000000 !important;
+}
+
+:root[data-theme="light"] .theme-toggle-button {
+  border-color: #043361;
+  background: #ffffff;
+  color: #043361;
+}
+
+:root[data-theme="dark"] body {
+  background-color: #20212b !important;
+  color: #dadbdf !important;
+}
+
+:root[data-theme="dark"] autocolor {
+  color: #dadbdf !important;
+}
+
+:root[data-theme="dark"] lightonly {
+  visibility: hidden !important;
+}
+
+:root[data-theme="dark"] darkonly {
+  visibility: visible !important;
+}
+
+:root[data-theme="dark"] papertitle,
+:root[data-theme="dark"] strong {
+  color: #eeeff0 !important;
+}
+
+:root[data-theme="dark"] h1,
+:root[data-theme="dark"] h2,
+:root[data-theme="dark"] h3,
+:root[data-theme="dark"] h4,
+:root[data-theme="dark"] h5,
+:root[data-theme="dark"] h6 {
+  color: #3eb7f0 !important;
+}
+
+:root[data-theme="dark"] a {
+  color: #3eb7f0 !important;
+}
+
+:root[data-theme="dark"] .social-icons a {
+  color: #3eb7f0 !important;
+}
+
+:root[data-theme="dark"] .social-icons a:hover {
+  background-color: #20212b !important;
+}
+
+:root[data-theme="dark"] th,
+:root[data-theme="dark"] dt {
+  color: #3eb7f0 !important;
+}
+
+:root[data-theme="dark"] .publications ol.bibliography li .links a.btn {
+  color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+:root[data-theme="dark"] .theme-toggle-button {
+  border-color: #dadbdf;
+  background: #20212b;
+  color: #dadbdf;
+}
